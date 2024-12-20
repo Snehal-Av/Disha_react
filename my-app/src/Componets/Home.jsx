@@ -14,6 +14,7 @@ class Home extends React.Component{
             <div>I'm Home</div>
             {this.state.name}
             {this.state.age}
+            <h1>guyuyguy</h1>
             </div>
 
         )
